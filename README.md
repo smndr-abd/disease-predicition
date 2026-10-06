@@ -33,3 +33,5 @@ Check that symptom column names match `PROFILES` in `make_dataset.py`.
 - Gini/entropy splits, overfitting, pruning (`max_depth`, `min_samples_leaf`, `ccp_alpha`)
 - Cross-validation, confusion matrix, precision/recall per class
 - Domain shift: synthetic -> real
+
+## Done by Samandar Abdujabbar
